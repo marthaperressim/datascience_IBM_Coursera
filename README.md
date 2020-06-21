@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate @ Coursera (2020)
 
-Total Workload: 160 hours.
+Total Workload: 120 hours.
 
 - "What is Data Science?" Course Certificate: https://www.coursera.org/account/accomplishments/records/ATGE69DB8JTS
 - "Tools for Data Science" Course Certificate: https://www.coursera.org/account/accomplishments/records/8AKNDX5QPW36
